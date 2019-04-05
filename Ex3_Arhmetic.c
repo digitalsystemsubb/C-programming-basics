@@ -2,7 +2,7 @@
 *  K. Herman
 */
 #include <stdio.h>
-
+/* hello*/
 int main()
 {
     int a, b, c;  
